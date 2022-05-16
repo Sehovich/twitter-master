@@ -1,4 +1,4 @@
-# Twirrer | Social Network App
+# Twitter | Social Network App
 
 I tried in this project to build an application similar to Twitter but certainly does not have all the features, but it contains the basic features such as (create an account, add a tweet, add a friend, like, comment, etc..).
 
